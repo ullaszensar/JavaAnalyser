@@ -1,0 +1,6 @@
+pylint
+astroid
+javalang
+requests
+sqlparse
+pytest
